@@ -9,3 +9,4 @@ A lightweight and efficient C++ library designed to protect native Windows appli
 - **String Obfuscation:** Seamless integration with `compiletime-xor` to prevent static analysis.
 - **Environment Awareness:** Scans for known analysis tools and kernel-mode drivers.
 - **Native Response:** Implements low-level system responses to protect process integrity.
+ 
